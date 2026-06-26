@@ -24,3 +24,5 @@ curl -X POST \
   -H "Authorization: Bearer sb_publishable_f7Q7eIjCkfpuJvhD-yypoQ_oXk7DpVc" \
   -H "Content-Type: application/json" \
   --data "$(printf '{"username":"%s","password":"%s"}' "$USERNAME" "$PASSWORD")"
+  sleep 1
+  echo "The Progress will be slow....If there's no progress in 24 hours try running Again...!"
