@@ -1,5 +1,16 @@
 #!/data/data/com.termux/files/usr/bin/bash
-
+echo "INSTAGRAM-BOT"
+echo "DRACO BOTNET - REGIT"
+sleep .5
+echo "The Growth of Followers will be Slow to make the Account more secure"
+echo "-"
+sleep .2
+echo "--"
+sleep .2
+echo "---"
+sleep .2
+echo "----"
+sleep .2
 echo "Enter Instagram Username:"
 read USERNAME
 
